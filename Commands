@@ -1,0 +1,6 @@
+commands to run:
+1. To check if your device is connected to system or not?
+"adb devices"
+
+2. To start collecting logs from device :
+"adb logcat -v threadtime >logcat.txt"
